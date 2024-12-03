@@ -85,3 +85,47 @@ https://forms.gle/MYayyQiG2oRajot89<br>
 ## 주최 및 주관
 ![image](https://github.com/user-attachments/assets/f6be184d-f1f2-4805-acdd-02db02c9f299)
 
+<br><br>
+<br><br>
+
+# 해커톤 참가자 안내
+해커톤 `참가 신청 폼`을 작성한 후, `안내메일`을 받고 `디스코드에 참가`가 완료된 분들을 위한 교육안내입니다.
+<br><br>
+## 온라인 자율학습형 교육 안내
+- 진행방법 : [Microsoft Learn 홈페이지](https://learn.microsoft.com/ko-kr/)에서 로그인을 하신 후 아래 토픽 2가지 중 원하시는 것을 학습하시면 됩니다. (2가지 모두 학습 가능)
+* 진행토픽 : 인공지능 기초 `AI-900`, 클라우드 기초 `AZ-900`
+  * [인공지능 기초 AI-900 바로가기](https://hgrd.kr/csc-ai-900)
+  * [클라우드 기초 AZ-900 바로가기](https://hgrd.kr/csc-az-900)
+- 진행순서
+    1. 로그인
+   ![1](https://github.com/user-attachments/assets/8f3d7d70-2646-4a3a-9afd-7d34bb90179f)
+    2. 자기 주도 학습 시작 클릭
+   ![2](https://github.com/user-attachments/assets/d4e3779f-614e-40ca-b1d7-9150e24e4d97)
+    3. 과정 시작 클릭
+   ![3](https://github.com/user-attachments/assets/d319cc49-c794-4da7-b633-adb0a960dc88)
+    4. 학습 시작 클릭
+   ![4](https://github.com/user-attachments/assets/a83f7a9c-b9e1-4660-9d76-a17d3e1980c4)
+    5. 개별 문서 학습
+   ![5](https://github.com/user-attachments/assets/85a0496f-c829-46fd-911f-987fd4f26740)
+    6. 다음 버튼을 통해 계속학습. 이후 문서 동일 방식으로 학습.(실습 포함)
+   ![6](https://github.com/user-attachments/assets/a1729504-aaad-4c86-aa5d-288bde177b1f)
+<br><br>
+## 오프라인 스터디윗미 교육 안내
+- 교육일시 : 2025년 1월 4일 오후 1시 ~ 오후 7시 30분
+- 교육장소 : 연암공대 강의실(추후 업데이트 예정)
+* 교육토픽 : 인공지능 기초 `AI-900`, 클라우드 기초 `AZ-900`
+  * [인공지능 기초 AI-900 바로가기](https://hgrd.kr/csc-ai-900)
+  * [클라우드 기초 AZ-900 바로가기](https://hgrd.kr/csc-az-900)
+- 교육일정
+
+| 시간          | 프로그램          | 세부내용                          |
+| ----------- | ------------- | ----------------------------- |
+| ~13:00      | 집결            |                               |
+| 13:00~13:30 | 사전 Session 진행 | · 교육 진행방식 설명, 교육 진행           |
+| 13:30~15:00 | 사전 교육 1       | · 자율 학습형 오프라인 교육 진행, QnA      |
+| 15:00~15:15 | 쉬는 시간         |                               |
+| 15:15~16:15 | 사전 교육 2       | · 자율 학습형 오프라인 교육 진행, QnA, 멘토링 |
+| 16:15~16:30 | 쉬는 시간         |                               |
+| 16:30~19:30 | 사전 교육 3       | · 자율 학습형 오프라인 교육 진행, QnA 멘토링  |
+| 19:30~      | 해산            |                               |
+
