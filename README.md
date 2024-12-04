@@ -43,6 +43,7 @@
 | 팀워크  | 팀원 간의 협동력(가점사항)  |
 | 시장성  | 시장성 여부, 사업화 가능성  |
 ## 7. 포스터
+![2024_AI__재학생](https://github.com/user-attachments/assets/b4b74223-b8f0-4037-a444-bd59caacebbe)
 
 
 <br>
@@ -92,6 +93,7 @@
 | 연계성  | 연암공대와의 연계(가점사항)  |
 | 시장성  | 시장성 여부, 사업화 가능성  |
 ## 7. 포스터
+![2024_AI__고교생](https://github.com/user-attachments/assets/630eda1e-05ca-45dc-974b-eeaa29ade1aa)
 
 
 <br>
