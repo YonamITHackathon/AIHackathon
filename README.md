@@ -26,8 +26,8 @@
 - 결과물 제출 목록
   * 아이디어 기획서 (양식 : https://docs.google.com/document/d/1veqIiudrnwG6odUKHcUS-Oqua64SM-Li/edit?usp=sharing&ouid=107824807862043330467&rtpof=true&sd=true)
   * 발표자료 (자율양식)
-  * 결과물 영상
   * 결과물 코드
+  * 결과물 영상(선택사항)
 ### 5. 시상
 | 구분  |         인원          |  상금   |     비고     |
 | :-: | :-----------------: | :---: | :--------: |
@@ -75,8 +75,8 @@
 - 결과물 제출 목록
   * 아이디어 기획서 (양식 : https://docs.google.com/document/d/1veqIiudrnwG6odUKHcUS-Oqua64SM-Li/edit?usp=sharing&ouid=107824807862043330467&rtpof=true&sd=true)
   * 발표자료 (자율양식)
-  * 결과물 영상
   * 결과물 코드
+  * 결과물 영상(선택사항)
  
 ### 5. 시상
 | 구분  |         인원          |  상금   |     비고     |
