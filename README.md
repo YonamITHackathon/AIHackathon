@@ -148,7 +148,7 @@ https://forms.gle/MYayyQiG2oRajot89<br>
 <br><br>
 ## 온라인 스트리밍 교육 안내
 - 교육일시 : 2024년 12월 24일 오후 2시 ~ 오후 3시 30분
-- 교육방법 : 온라인 스트리밍(링크 차후 공지)
+- 교육방법 : 온라인 스트리밍(링크 : https://www.youtube.com/live/vu8857XDsO4?si=Y3ZX0UaiMKfrc0Zc)
 * 교육토픽 : 인공지능 기초 `AI-900`, 클라우드 기초 `AZ-900`
   * [인공지능 기초 AI-900 바로가기](https://hgrd.kr/csc-ai-900)
   * [클라우드 기초 AZ-900 바로가기](https://hgrd.kr/csc-az-900)
