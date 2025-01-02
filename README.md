@@ -22,7 +22,7 @@
   * (예시 2) 교내 여러 학생들과 소통하고 팀원을 구할 수 있는 웹
 ### 4. 결과물 제출
 - #### 해커톤 대회 시작은 개인 혹은 팀이 참가신청 폼을 제출한 순간부터 시작이며, 결과물을 제작하며 온라인 자율학습형 교육을 이수하시면 됩니다.
-- #### [폼 제출 완료 ~ 1월 10일]을 해커톤 기간으로 하여 최종 1월 10일에 결과물을 제출하시면 됩니다.(온라인 제출처 차후 안내 예정)
+- #### [폼 제출 완료 ~ 1월 10일]을 해커톤 기간으로 하여 최종 1월 10일에 결과물을 제출하시면 됩니다.(온라인 제출처 : https://script.google.com/macros/s/AKfycbyixjmJ8jb_qYXwWVEtiM0vaR-2o-DWbi2E0w5R2Ut2nhZsONC3XpVM1wDotLHFz4Z7FQ/exec)
 - 결과물 제출 목록
   * 아이디어 기획서 (양식 : https://docs.google.com/document/d/1veqIiudrnwG6odUKHcUS-Oqua64SM-Li/edit?usp=sharing&ouid=107824807862043330467&rtpof=true&sd=true)
   * 발표자료 (자율양식)
@@ -71,7 +71,7 @@
  
 ### 4. 결과물 제출
 - #### 해커톤 대회 시작은 개인 혹은 팀이 참가신청 폼을 제출한 순간부터 시작이며, 결과물을 제작하며 온라인 자율학습형 교육을 이수하시면 됩니다.
-- #### [폼 제출 완료 ~ 1월 10일]을 해커톤 기간으로 하여 최종 1월 10일에 결과물을 제출하시면 됩니다.(온라인 제출처 차후 안내 예정)
+- #### [폼 제출 완료 ~ 1월 10일]을 해커톤 기간으로 하여 최종 1월 10일에 결과물을 제출하시면 됩니다.(온라인 제출처 : https://script.google.com/macros/s/AKfycbyixjmJ8jb_qYXwWVEtiM0vaR-2o-DWbi2E0w5R2Ut2nhZsONC3XpVM1wDotLHFz4Z7FQ/exec)
 - 결과물 제출 목록
   * 아이디어 기획서 (양식 : https://docs.google.com/document/d/1veqIiudrnwG6odUKHcUS-Oqua64SM-Li/edit?usp=sharing&ouid=107824807862043330467&rtpof=true&sd=true)
   * 발표자료 (자율양식)
